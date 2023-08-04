@@ -1,0 +1,19 @@
+*{
+    background-color: thistle;
+}
+
+h1.clone{
+    
+    color: blue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+input.clone{
+
+    color: black;
+}
+
+button.clone{
+    color:black;
+    background-color: yellow;
+}
